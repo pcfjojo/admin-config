@@ -13,7 +13,7 @@
     ],
     "require": {
         "laravel/framework": "*",
-        "encore/laravel-admin": "^1.6"
+        "encore/laravel-admin": "^1.8"
     },
     "autoload": {
         "psr-4": {
